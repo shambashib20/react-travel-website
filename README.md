@@ -4,4 +4,8 @@ Props are also passed down from one component to another. BrowserRouter, Link, S
 
 ### This project has features like: Carousel, Popup, Image zoom, mobile compatability, fetch data from external API endpoints, login and signup form and a lot more :)
 
-<!-- https://tspot-travel-app.netlify.app/ -->
+# Deployment Status: Successfull
+
+## Try this at:
+
+### Link: https://react-travel-website-chi.vercel.app/
